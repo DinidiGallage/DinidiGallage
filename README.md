@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently an undergraduate **at SLIIT**
 
-- 💬 Ask me about **Java and Web or Mobile development**
-
 - 📫 How to reach me **dinidigallage@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
