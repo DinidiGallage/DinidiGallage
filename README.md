@@ -1,8 +1,6 @@
 <h1 align="center"> I'm Dinidi Gallage</h1>
 <h3 align="center">A passionate developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinidigallage&label=Profile%20views&color=0e75b6&style=flat" alt="dinidigallage" /> </p>
-
 - 🌱 I’m currently an undergraduate **at SLIIT**
 
 - 📫 How to reach me **dinidigallage@gmail.com**
