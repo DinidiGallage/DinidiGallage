@@ -1,5 +1,5 @@
 <h1 align="center">Dinidi Gallage</h1>
-<h3 align="center">TraineemSoftware Engineer · Backend & Platform Engineering</h3>
+<h3 align="center">Trainee Software Engineer · Backend & Platform Engineering</h3>
 
 
 
